@@ -4,8 +4,10 @@ This repo contains two examples that of how to capture a screen shot using Windo
 
 ## Example 1
 Contains two programs:
-    - SaveToBMP: Takes a screen capture of the users screen and saves it as a bitmap file.
-    - ConvertBMP2JPEG: Converts a BMP in the same location to a compressed JPEG file.
+
+- SaveToBMP: Takes a screen capture of the users screen and saves it as a bitmap file.
+- ConvertBMP2JPEG: Converts a BMP in the same location to a compressed JPEG file.
+
 ![Screenshot1](images/ex1.png)
 
 ## Example 2 
